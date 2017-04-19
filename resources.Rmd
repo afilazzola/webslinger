@@ -9,4 +9,4 @@ I got up to speed using these two resources.
 
 [Tutorial and nice example](https://jules32.github.io/rmarkdown-website-tutorial/index.html)
 
-[bookdown](https://bookdown.org/yihui/blogdown/methods.html)
+[Bookdown](https://bookdown.org/yihui/blogdown/methods.html)
