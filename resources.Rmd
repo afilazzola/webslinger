@@ -1,0 +1,12 @@
+---
+title: "resources"
+output: html_document
+---
+
+I got up to speed using these two resources.
+
+[RStudio basic instructions](http://rmarkdown.rstudio.com/rmarkdown_websites.html)
+
+[Tutorial and nice example](https://jules32.github.io/rmarkdown-website-tutorial/index.html)
+
+[bookdown](https://bookdown.org/yihui/blogdown/methods.html)
