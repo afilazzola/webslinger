@@ -3,6 +3,9 @@ title: ""
 output: html_document
 ---
 
-![](./spiderman.png)
+
+
+![](./spiderman.png)  
+
 
 There are numerous simple and more advanced sets of resources available to use R Markdown to generate websites. There are two families of options. Use the packages 'bookdown' or use 'rmarkdown'. If you are primarily interested in a final, nice knit to pdf but also want a website, use bookdown. If you are looking to produced a website that is more than a single html and you want navigation between pages, use rmarkdown to elegantly render a website.

@@ -2,7 +2,7 @@ name: "webslinger"
 navbar:
   title: "webslinger"
   left:
-    - text: "info"
+    - text: "home"
       href: index.html
     - text: "resources"
       href: resources.html
