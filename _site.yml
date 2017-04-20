@@ -6,7 +6,7 @@ navbar:
       href: index.html
     - text: "resources"
       href: resources.html
-      output_dir: "."
+output_dir: "."
 output:
   html_document:
     theme: yeti
